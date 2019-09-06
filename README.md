@@ -1,2 +1,2 @@
-# Zigma-Banking-Solutions
-Banking Project
+# TwoFactorAuthentication
+Email and OTP SMS authentication
