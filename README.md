@@ -1,2 +1,1 @@
-# TwoFactorAuthentication
-Email and OTP SMS authentication
+Zigma Banking Solutions Project done while in training.
